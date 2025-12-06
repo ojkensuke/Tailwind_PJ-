@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+
+# Node packages
+node_modules/
+npm-debug.log
+
+# Env
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Tailwind build CSS
+src/output.css
+
+# Firebase local secrets（可能性があるなら）
+serviceAccountKey.json
